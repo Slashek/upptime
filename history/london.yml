@@ -1,0 +1,7 @@
+- url: https://prod01.london.platform-os.com/ping
+- status: up
+- code: 200
+- responseTime: 408
+- lastUpdated: 2020-11-18T17:35:10.033Z
+- startTime: 2020-11-18T17:35:09.621Z
+- generator: Upptime <https://github.com/upptime/upptime>
