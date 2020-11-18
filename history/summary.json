@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Documentation",
+    "url": "https://documentation.platformos.com",
+    "slug": "documentation",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 277
+  },
+  {
+    "name": "Marketing Site",
+    "url": "https://www.platformos.com",
+    "slug": "marketing-site",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 586
+  },
+  {
+    "name": "Partner Portal",
+    "url": "https://partners.platformos.com/",
+    "slug": "partner-portal",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 216
+  },
+  {
+    "name": "Sydney",
+    "url": "https://prod01.sydney.platformos.com/ping",
+    "slug": "sydney",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 422
+  },
+  {
+    "name": "Oregon",
+    "url": "https://prod01.oregon.platform-os.com/ping",
+    "slug": "oregon",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 196
+  },
+  {
+    "name": "London",
+    "url": "https://prod01.london.platform-os.com/ping",
+    "slug": "london",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 204
+  },
+  {
+    "name": "Staging",
+    "url": "https://staging.oregon.platformos.com/ping",
+    "slug": "staging",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 381
+  }
+]
