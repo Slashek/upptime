@@ -1,8 +1,6 @@
-# Change these first
 owner: pavelloz # Your GitHub username
 repo: upptime # Your Github repository name
 
-# Add your sites here
 sites:
   - name: Documentation
     url: https://documentation.platformos.com
@@ -22,14 +20,7 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Uptime of platformOS stacks"
-  # introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
