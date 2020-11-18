@@ -10,6 +10,14 @@ sites:
     url: https://www.platformos.com
   - name: Partner Portal
     url: https://partners.platformos.com/
+  - name: Sydney
+    url: https://prod01.sydney.platformos.com/ping
+  - name: Oregon
+    url: https://prod01.oregon.platform-os.com/ping
+  - name: London
+    url: https://prod01.london.platform-os.com/ping
+  - name: Staging
+    url: https://staging.oregon.platformos.com/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
